@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #F5F5F5;
+    background-color: #212121;
+    border: 1px solid white;
+    overflow: hidden;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+input {
+    vertical-align: middle;
+}
+
+label {
+    vertical-align: bottom;
+    padding-right: 5px;
+}
