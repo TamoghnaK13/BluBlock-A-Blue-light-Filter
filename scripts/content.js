@@ -11,10 +11,10 @@
           background: #e38b10!important;
           pointer-events: none;
           position: fixed;
-          top: -10%;
-          right: -10%;
-          width: 120%;
-          height: 120%;
+          top: -20%;
+          right: -20%;
+          width: 240%;
+          height: 240%;
           opacity: 90%;            
           mix-blend-mode: multiply;
           display: block;
