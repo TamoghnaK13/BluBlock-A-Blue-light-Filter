@@ -4,13 +4,7 @@
   "version": "1.0",
   "description": "Simple way to protect yourself from Blue Light",
   "manifest_version": 2,
-  "permissions": [
-    "activeTab",
-    "storage",
-    "<all_urls>",
-    "tabs"
-    
-  ],
+  "permissions": ["activeTab","storage","<all_urls>","tabs"],
   "background": {
     "scripts": ["scripts/background.js"],
     "persistent": false
