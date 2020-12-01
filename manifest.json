@@ -26,12 +26,6 @@
     }
   ],
   "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "images/sunglasses_16.png",
-      "32": "images/sunglasses_32.png",
-      "48": "images/sunglasses_32.png",
-      "128": "images/sunglasses_128.png"
-    }
+    "default_popup": "popup.html"
   }
 }
